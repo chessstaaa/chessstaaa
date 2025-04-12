@@ -2,7 +2,7 @@
 <h3>My name is Darrell Chesta Adabi</h3>
 💻Computer Engineering Student at Telkom University Bandung<br/>
 🎨I like drawing, writing, and coding<br/>
-📒Currently learning about Android/IOS programming<br/>
+📒Having interest in learning about Android/IOS programming and Artificial Intelligent<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chessstaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adabichestadarrell@gmail.com) 
